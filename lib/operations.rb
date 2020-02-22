@@ -1,4 +1,4 @@
-def unsafe?(60 mph)
+def unsafe?(speed)
 
 end
 
